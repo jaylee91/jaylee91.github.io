@@ -4,10 +4,7 @@ title: Testing
 subtitle: Why don't you try clicking everything?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
+Welcome to Starpic Dev Blog
 
 What else do you need?
 
